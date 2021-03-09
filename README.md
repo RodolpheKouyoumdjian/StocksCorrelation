@@ -7,3 +7,13 @@ Line 70: Set the annot parameter to True if you want the correlation coefficient
 If you wish to change the dates or remove/add stocks, restart the program. 
 
 In the tickers.txt textfile, write one stock symbol per line. The stock symbol of the company should be the same as the ones written on finance.yahoo.com
+
+Libraries used:
+pandas
+numpy
+scipy
+datetime
+seaborn
+matplotlib.pyplot
+yfinance
+warnings
