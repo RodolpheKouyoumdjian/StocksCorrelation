@@ -17,3 +17,5 @@ seaborn,
 matplotlib.pyplot,
 yfinance,
 warnings,
+
+The file Stocks_correlations_by_industry.ipynb was added as a follow up to the initial idea. The code for the basic tool was improved and an analysis concerning the results was conducted. See bottom of file for conclusions. 
